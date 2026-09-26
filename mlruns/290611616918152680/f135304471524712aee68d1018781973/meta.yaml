@@ -1,0 +1,15 @@
+artifact_uri: s3://s3-student-mle-20260729-1a551ccfe6-freetrack/artifacts/models/290611616918152680/f135304471524712aee68d1018781973/artifacts
+end_time: 1790170422935
+entry_point_name: ''
+experiment_id: '290611616918152680'
+lifecycle_stage: active
+run_id: f135304471524712aee68d1018781973
+run_name: eda
+run_uuid: f135304471524712aee68d1018781973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790170422893
+status: 4
+tags: []
+user_id: mle-user
